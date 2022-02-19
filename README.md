@@ -1,0 +1,2 @@
+# ShabbirResume
+.NetCore Developer
